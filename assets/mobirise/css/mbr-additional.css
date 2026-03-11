@@ -139,15 +139,25 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
+<<<<<<< HEAD
   background-color: #006400 !important;
   border-color: #006400 !important;
+=======
+  background-color: #228b22 !important;
+  border-color: #228b22 !important;
+>>>>>>> 2404604 (Primeiro commit: site Barão Marmitaria. Resonsividade)
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
+<<<<<<< HEAD
   background-color: #006400 !important;
   border-color: #006400 !important;
+=======
+  background-color: #228b22 !important;
+  border-color: #228b22 !important;
+>>>>>>> 2404604 (Primeiro commit: site Barão Marmitaria. Resonsividade)
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -313,7 +323,11 @@ body {
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
+<<<<<<< HEAD
   color: #006400 !important;
+=======
+  color: #228b22 !important;
+>>>>>>> 2404604 (Primeiro commit: site Barão Marmitaria. Resonsividade)
   background-color: transparent !important;
   border-color: transparent !important;
   box-shadow: none !important;
@@ -593,7 +607,11 @@ a:hover {
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
+<<<<<<< HEAD
   color: #228b22;
+=======
+  color: #3cb371;
+>>>>>>> 2404604 (Primeiro commit: site Barão Marmitaria. Resonsividade)
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
